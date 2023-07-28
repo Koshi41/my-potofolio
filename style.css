@@ -1,3 +1,10 @@
 h1 {
-  font-family: "YuGothic";
+  font-family: Arial;
+}
+
+.mid {
+  font-size: 200px;
+}
+.komi {
+  font-size: 100px;
 }
