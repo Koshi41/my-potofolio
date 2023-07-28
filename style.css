@@ -6,9 +6,11 @@ h1 {
 
 .mid {
   font-size: 70px;
+  padding: 30px 50px;
 }
 .komi {
   font-size: 25px;
+  padding: 20px 80px;
 }
 .mtext {
   font-family: "YuGothic";
