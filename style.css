@@ -4,16 +4,27 @@ h1 {
   font-size: 70px;
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .mid {
   font-size: 60px;
-  padding: 30px 50px;
+  padding: 30px 50px 10px 60px;
 }
 .komi {
   font-size: 25px;
   padding: 0px 80px;
+}
+.songs {
+  padding-left: 70px;
+}
+.SNS {
+  display: flex;
+  justify-content: center;
+}
+#sns {
+  font-size: 20px;
+  text-align: center;
 }
 
 img.img1 {
@@ -21,13 +32,6 @@ img.img1 {
   height: 60px;
 }
 img.img2 {
-  width: 90px;
-  height: 60px;
-}
-.SNS {
-  justify-content: center;
-  margin: 40px;
-}
-#sns {
-  font-size: 20px;
+  width: 120px;
+  height: 80px;
 }
