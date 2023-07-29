@@ -12,7 +12,7 @@ btn.onclick = function () {
   pnda.height += 30;
   console.dir(pnda);
   count += 1;
-  if (count >= 15) {
+  if (count >= 21) {
     qw1.textContent = "あなたのおすすめの曲を教えてください！";
     console.log(qw1);
   }
